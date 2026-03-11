@@ -3,3 +3,8 @@ and now I learn JAVA
 I do it in English
 that is so hard
 start committing in another branch
+first commit in demo
+second commit in demo
+third commit in demo
+last commit in demo
+
